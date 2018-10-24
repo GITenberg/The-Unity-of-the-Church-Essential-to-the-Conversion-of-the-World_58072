@@ -1,5 +1,8 @@
 _repo: The-Unity-of-the-Church-Essential-to-the-Conversion-of-the-World_58072
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58072-h/images/cover.jpg
 creator:
   author:
     agent_name: Gwyther, James Henry Alexander
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '49761'
     url: http://www.gutenberg.org/2009/agents/49761
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58072#The-Unity-of-the-Church-Essential-to-the-Conversion-of-the-World
 gutenberg_issued: '2018-10-10'
 gutenberg_type: Text
 identifiers:
